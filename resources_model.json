@@ -1,0 +1,23 @@
+// This is the model that you will use for creation of new Fugue environments.
+
+{
+    "compliance_families": [
+        "string"
+    ],
+    "name": "string",
+    "provider": "aws",
+    "provider_options": {
+        "aws": {
+            "region": "string",
+            "role_arn": "string"
+        }
+    },
+    "remediate_resource_types": [
+        "string"
+    ],
+    "scan_interval": 0,
+    "scan_schedule_enabled": true,
+    "survey_resource_types": [
+        "string"
+    ]
+}
