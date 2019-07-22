@@ -1,3 +1,5 @@
+// This is an example of a resources model that can be used to create a new environment
+
 {
     "compliance_families": [
         "CIS",
