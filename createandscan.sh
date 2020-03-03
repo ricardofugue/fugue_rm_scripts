@@ -2,7 +2,7 @@
 
 #Your CLIENT_ID and CLIENT_SECRET should be saved as environment variables 
 #Your resources.json file can be updated however you see fit.  Make sure your .json is formatted properly or you will get errors. 
-
+#This also includes the use of a json parsing tool called JQ that you will need to have installed on your machine
 #create the risk manager environment
 
 echo "Creating your risk manager environment..."
